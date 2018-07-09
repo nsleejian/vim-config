@@ -48,7 +48,8 @@ augroup END
 set hlsearch                "高亮显示搜索结果
 set incsearch               " 实时搜索
 nnoremap <leader><space> :noh<CR> "关闭搜索高亮
-"=============== UI Tweaks =================et guifont=Fira_Code:h18	"设置等宽字体
+"=============== UI Tweaks =================
+set guifont=Fira_Code:h18	"设置等宽字体
 set macligatures  		    "Display programming ligatures
 set linespace=16		    "设置行高
 set number

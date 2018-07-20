@@ -14,6 +14,7 @@ set t_CO=256 			    "256色值
 colorscheme atom-dark-256  	"主题
 syntax on 		        	"开启语法高亮
 set autoindent              "让每一行自动和上一行保持相同的缩进  
+set guifont=Fira_Code:h16        " Monospaced font with programming ligatures
 
 "=============== 缩进=====================
 set tabstop=4			    "1tap=4空格
